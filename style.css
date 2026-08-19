@@ -47,3 +47,23 @@ body {
     padding: 20px 15px;
   }
 }
+.buttuns {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 16px 0;
+  padding: 8px;
+  background-color: rgba(255, 248, 232, 0.9);
+  border: 2px solid #c68a2a;
+  border-radius: 8px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: small;
+}
+
+.buttuns h1 {
+  margin: 0;
+}
+
+.buttuns i {
+  font-size: 3rem;
+}
